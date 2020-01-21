@@ -1,0 +1,1 @@
+# rwb-armtemplates-gitrepo
